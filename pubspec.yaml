@@ -1,6 +1,7 @@
 name: pyth_client_dart
 description:  Dart Client for consuming Pyth price data.
-version: 0.0.1
+version: 0.0.2
+repository: https://github.com/sumikof/pyth_client_dart
 homepage:
 
 environment:
